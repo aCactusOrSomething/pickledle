@@ -1,0 +1,23 @@
+.mystery {
+  color:transparent;
+  text-shadow: 0 0 0 grey;
+  padding: 0.2em;
+  font-size: 1em;
+  margin: 0.1em;
+}
+
+main {
+    font-size: 2em;
+}
+
+body {
+    text-align: center;
+}
+
+pre {
+    padding: 0.5em;
+    display: inline-block;
+    text-align: left;
+    background-color: #dddddd;
+    border-radius: 0.5em;
+}
